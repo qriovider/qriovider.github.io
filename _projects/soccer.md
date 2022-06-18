@@ -4,7 +4,7 @@ title: Soccer
 description: another without an image
 img:
 importance: 3
-category: fun
+category: hobby
 ---
 
 Every project has a beautiful feature showcase page.
