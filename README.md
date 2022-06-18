@@ -141,6 +141,8 @@ Starting version [v0.3.5](https://github.com/alshedivat/al-folio/releases/tag/v0
 4. Make changes, commit, and push!
 5. After deployment, the webpage will become available at `<your-github-username>.github.io`.
 
+If you’re hosting your site under the same GitHub username you will have to use Project Pages instead of User Pages. Essentially you rename the repo to something other than USERNAME.github.io and create a `gh-pages` branch off of `master`.
+
 **For project pages:**
 1. In `_config.yml`, set `url` to `https://<your-github-username>.github.io` and `baseurl` to `/<your-repository-name>/`.
 2. Set up automatic deployment of your webpage (see instructions below).
