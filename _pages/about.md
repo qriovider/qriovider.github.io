@@ -8,9 +8,9 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p> </p>
-    <p> </p>
-    <p> </p>
+    <p> The image was </p>
+    <p> taken in my hometown, </p>
+    <p> Niigata, Japan. </p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
