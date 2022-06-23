@@ -11,3 +11,5 @@ children:
     - title: projects
       permalink: /projects/
 ---
+
+place: _pages/dropdown.md
