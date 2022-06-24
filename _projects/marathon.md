@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Marathon
+title: marathon
 description: a project with a background image
 img: assets/img/1.jpg
 importance: 3
