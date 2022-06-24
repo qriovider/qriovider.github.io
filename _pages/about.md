@@ -23,7 +23,7 @@ I am a master student of University of Tsukuba, Japan. My research interests are
 <!-- My Ultimate goal is to identify what is acutually happened or not by using the probability theory or new methods! --> 
 
 
-## educational Background
+## educational background
 2021-present
 
 
