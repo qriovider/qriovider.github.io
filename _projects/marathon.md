@@ -16,7 +16,7 @@ To give your project a background in the portfolio page, just add the img tag to
     ---
     layout: page
     title: project
-    description: a project with a background image
+    description: What are the differences between marathon and research?
     img: /assets/img/12.jpg
     ---
 
