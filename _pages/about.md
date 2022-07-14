@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 ## about
-I am a master student of University of Tsukuba, Japan. My research interests are the applied probability and the stochastic analysis. Especially, I am interested in applying the quantitive approaches (Stein's method, stochastic geometry and so on) to a Queueing system.
+I am a master student of University of Tsukuba, Japan. My research interests are the applied probability and the stochastic analysis. Especially, I am interested in applying the quantitive approaches (Stein's method, stochastic geometry and so on) to a Queueing system. My main goals are to find the phynomenon which is difficult to understand intuitively and explain it clearly.
 
 <!-- My Ultimate goal is to identify what is acutually happened or not by using the probability theory or new methods! --> 
 
