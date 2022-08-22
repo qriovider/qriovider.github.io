@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Soccer
-description: another without an image
+description: Ideal role of a head coach
 img:
 importance: 3
 category: hobby
