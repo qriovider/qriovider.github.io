@@ -1,7 +1,7 @@
 ---
 layout: page
 title: stochastic geometry
-description: a project with a background image
+description: basic words appearing in the stochastic geometry
 img: assets/img/3.jpg
 importance: 2
 category: study
