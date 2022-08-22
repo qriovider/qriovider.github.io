@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Music
-description: a project with no image
+description: Classification of music junre (mainly indie rock)
 img:
 importance: 4
 category: hobby
