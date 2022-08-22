@@ -1,7 +1,7 @@
 ---
 layout: page
 title: percolation
-description: a project that redirects to another website
+description: Explanation by using python
 img: assets/img/7.jpg
 redirect: 
 importance: 3
