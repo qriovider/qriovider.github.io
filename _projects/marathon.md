@@ -1,7 +1,7 @@
 ---
 layout: page
 title: marathon
-description: a project with a background image
+description: Difference between "marathon" and "research"
 img: assets/img/1.jpg
 importance: 3
 category: hobby
