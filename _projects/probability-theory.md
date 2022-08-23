@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Probability theory
+title: probability theory
 description: fascinated stochastic events
 img: assets/img/12.jpg
 importance: 1
