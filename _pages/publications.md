@@ -10,7 +10,7 @@ nav_order: 1
 
 ## presentations in international conference
 
-## Domestic conferences (Non-reviewed)
+## domestic conferences (non-reviewed)
 
 <!-- _pages/publications.md -->
 <div class="publications">
