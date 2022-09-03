@@ -24,7 +24,7 @@ Kazuma Abe is a 2nd-year master student at University of Tsukuba, Japan. His res
 <!-- My Ultimate goal is to identify what is acutually happened or not by using the probability theory or new methods! --> 
 
 
-<p><font size="7" color="#8a2be2">about</font></p>
+<p><font size="7" color="#8a2be2">educational background</font></p>
 2021-present
 
 
