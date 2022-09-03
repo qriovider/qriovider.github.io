@@ -1,6 +1,7 @@
 ---
 layout: post
-title: I am also constructing Japanese version.
+title: 
 inline: true
 date: 2022-06-18
 ---
+This website is also being constructed in Japanese version.
