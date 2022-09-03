@@ -17,13 +17,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-## about
+<p><font size="7" color="#8a2be2">about</font></p>
+
 Kazuma Abe is a 2nd-year master student at University of Tsukuba, Japan. His research interests are the applied probability and the stochastic analysis. Especially, He is interested in applying the quantitive approaches (Stein's method, stochastic geometry and so on) to a Queueing system. His current goal is to find the phynomenon which is difficult to understand intuitively and explain it clearly. This website is managed and operated by him.
 
 <!-- My Ultimate goal is to identify what is acutually happened or not by using the probability theory or new methods! --> 
 
 
-## educational background
+<p><font size="7" color="#8a2be2">about</font></p>
 2021-present
 
 
