@@ -1,6 +1,6 @@
 ---
 layout: post
 title: I am also constructing Japanese version.
-inline: True
+inline: true
 date: 2022-06-18
 ---
