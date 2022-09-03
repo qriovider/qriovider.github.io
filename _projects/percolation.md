@@ -2,7 +2,7 @@
 layout: page
 title: percolation
 description: Explanation by using python
-img: assets/img/7.jpg
+img: 
 redirect: 
 importance: 3
 category: study
