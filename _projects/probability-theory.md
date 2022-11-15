@@ -1,6 +1,6 @@
 ---
 layout: page
-title: probability
+title: applied probability
 description: fascinated stochastic events
 img: 
 importance: 1
