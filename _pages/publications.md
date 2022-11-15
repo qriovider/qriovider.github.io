@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Under preparation
+description: 
 years: [2022, 2023]
 nav: true
 nav_order: 1
