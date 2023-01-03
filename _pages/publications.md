@@ -12,6 +12,8 @@ nav_order: 1
 
 <p><font size="6" color="#8a2be2">domestic conferences (non-reviewed)</font></p>
 1. Abe, K. and Phung-Duc, T., “A diffusion limit of cognitive wireless networks with sensing time of secondary users,” Proceedings of the Queueing Symposium: Stochastic Models and their Applications, pp. 71--80, January 19-21, 2022, online.
+
+
 2. Abe, K. and Phung-Duc, “Asymptotic analysis of modefied Erlang B model considering interruptions,” Abstracts of The 2022 Fall National Conference of Operations Research Society of Japan, Niigata, Japan, 12-13 September 2022. (in Japanese).
 
 
