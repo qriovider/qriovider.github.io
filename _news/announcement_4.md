@@ -5,4 +5,4 @@ inline: true
 ---
 
 My first paper was accepted and published.  
-Abe, K. and Phung-Duc, T. (2022), “Diffusion limit of a modified Erlang-B system with sensing time of secondary users” [PDF](https://rdcu.be/c2H6b)
+Abe, K. and Phung-Duc, T. (2022), “Diffusion limit of a modified Erlang-B system with sensing time of secondary users” [Link](https://link.springer.com/article/10.1007/s10479-022-05153-w)
