@@ -1,6 +1,6 @@
 ---
 layout: page
-title: percolation
+title: simulation
 description: Explanation by using python
 img: 
 redirect: 
