@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Soccer
-description: Ideal role of a head coach
+description: The ideal role of a head coach
 img:
 importance: 3
 category: hobby
