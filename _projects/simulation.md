@@ -8,3 +8,8 @@ importance: 3
 category: study
 ---
 
+1. Python
+M/M/1 
+
+
+2. R
