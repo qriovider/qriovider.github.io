@@ -1,7 +1,7 @@
 ---
 layout: page
 title: marathon
-description: Difference between "marathon" and "research"
+description: What is the difference between Marathon and Research?
 img: 
 importance: 3
 category: hobby
