@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Music
-description: Classification of music junre (mainly indie rock)
+description: The classification of music junre (mainly indie rock)
 img:
 importance: 4
 category: hobby
